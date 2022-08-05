@@ -1,12 +1,12 @@
-### Hi there 👋
+# Hi there 👋🏻
 
 I'm Mawan\
 Information System Student at Jember University  
 
-🌱 I’m currently learning about Data\
+🌱 I’m currently learning **Belajar Dasar Git dengan GitHub** at [Dicoding](https://www.dicoding.com/)\
 ✨ I'm a huge fan of Justin Bieber :v awkwkwk
 
-**Connect with me on**
+**📫 Connect with me on**
 
 my [Linkedin](https://www.linkedin.com/in/nur-muhammad-himawan-6a2a93209/)\
 my [Instagram](https://www.instagram.com/mawann_/)\
