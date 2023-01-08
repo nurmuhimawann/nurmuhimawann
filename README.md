@@ -1,5 +1,5 @@
 <div>
-   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fc.png" width="50px"></h1>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fc.png" width="35px"></h1>
 </div>
    
 
