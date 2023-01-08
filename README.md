@@ -1,9 +1,3 @@
-<!--
-<div>
-   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> 👋🏻</h1>
-</div>
--->
-
 <div>
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fc.png" width="50px"></h1>
 </div>
@@ -38,6 +32,11 @@ my [Twitter](https://twitter.com/nurmuhimawann)
 
 <!--
 **nurmuhimawann/nurmuhimawann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> 👋🏻</h1>
+</div>
+
 
 Here are some ideas to get you started:
 
