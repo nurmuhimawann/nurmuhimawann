@@ -1,6 +1,4 @@
-<div>
-   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> 👋🏻</h1>
-</div>
+# Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> 👋🏻
 
 Hello, my name is Muhammad Himawan, but simply call me Mawan.\
 Information System Student at Jember University  
