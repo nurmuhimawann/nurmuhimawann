@@ -1,12 +1,16 @@
-# Hi there 👋🏻
+<div>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan 👋🏻</h1>
+</div>
 
-I'm Mawan\
+Hello, my name is Muhammad Himawan, but simply call me Mawan.\
 Information System Student at Jember University  
 
 🌱 I’m currently learning **Belajar Dasar Git dengan GitHub** at [Dicoding](https://www.dicoding.com/)\
 ✨ I'm a huge fan of Justin Bieber :v awkwkwk
 
-**📫 Connect with me on**
+### 📫 Connect with me on
+  
+Let’s keep in touch! Drop me a message at
 
 my [Linkedin](https://www.linkedin.com/in/nur-muhammad-himawan-6a2a93209/)\
 my [Instagram](https://www.instagram.com/mawann_/)\
@@ -20,6 +24,10 @@ my [Twitter](https://twitter.com/nurmuhimawann)
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurmuhimawann&layout=compact&langs_count=8"/>
 </a>
 </p>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurmuhimawann&hide_border=true)](https://git.io/streak-stats)
+
+ 
 
 <!--
 **nurmuhimawann/nurmuhimawann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
