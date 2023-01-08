@@ -1,7 +1,15 @@
+<!--
 <div>
-   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan 👋🏻</h1>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> 👋🏻</h1>
 </div>
+-->
 
+<div>
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/nurmuhimawann/">Mawan</a> <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fc.png" width="50px"></h1>
+</div>
+   
+
+   
 Hello, my name is Muhammad Himawan, but simply call me Mawan.\
 Information System Student at Jember University  
 
@@ -12,11 +20,10 @@ Information System Student at Jember University
   
 Let’s keep in touch! Drop me a message at
 
-my [Linkedin](https://www.linkedin.com/in/nur-muhammad-himawan-6a2a93209/)\
-my [Instagram](https://www.instagram.com/mawann_/)\
+my [Linkedin](https://www.linkedin.com/in/nur-muhammad-himawan-6a2a93209/) —
+my [Instagram](https://www.instagram.com/mawann_/) —
 my [Twitter](https://twitter.com/nurmuhimawann)  
 
-<br/>
 <h2>📝 GitHub Stats</h2>
 <p align="left">
 <a href="https://github.com/nurmuhimawann">
