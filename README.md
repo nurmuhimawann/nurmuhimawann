@@ -12,7 +12,8 @@ Let’s keep in touch! Drop me a message at
 
 my [Linkedin](https://www.linkedin.com/in/nur-muhammad-himawan-6a2a93209/) —
 my [Instagram](https://www.instagram.com/mawann_/) —
-my [Twitter](https://twitter.com/nurmuhimawann)  
+my [Twitter](https://twitter.com/nurmuhimawann) —
+my [Personal Website](https://nurmuhimawann.my.id)  
 
 <h2>📝 GitHub Stats</h2>
 <p align="left">
